@@ -6,7 +6,7 @@ __pycache__/
 .DS_Store
 
 # Temp Folder
-Data
+# Data
 
 # Temp Files
 model.py
