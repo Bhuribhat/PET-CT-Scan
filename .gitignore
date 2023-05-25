@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temp Folder
+Data
+
+# Temp Files
+model.py
+test.py
+Semantic_Segmentation.ipynb
